@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">G7S21_DDIM_ACT2_FABIAN</string>
+    <string name="titulo">Galeria de fotos</string>
+    <string name="titulo2">ingresa el nombre para buscar: </string>
+    <string name="btnbuscar">buscar</string>
+
+</resources>
